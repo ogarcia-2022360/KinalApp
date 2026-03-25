@@ -21,6 +21,8 @@ public class Cliente {
     @Column
     private int estado;
 
+
+
     public Cliente() {
     }
 
