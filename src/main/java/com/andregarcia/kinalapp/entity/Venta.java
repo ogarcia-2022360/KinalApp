@@ -83,3 +83,4 @@ private int estado;
         this.total = total;
     }
 }
+
