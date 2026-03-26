@@ -26,3 +26,4 @@ public interface IVentaService {
     //
     boolean existePorCodigoVenta (int codigoVenta);
 }
+
